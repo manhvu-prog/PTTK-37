@@ -1,0 +1,4 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Chọn thống kê | RestMan</title><link rel="stylesheet" href="<%=request.getContextPath()%>/styles.css"></head>
+<body><header class="bar"><div class="brand">RestMan</div><nav class="nav"><a href="ManagerHome5.jsp">Quản lý</a><a href="#">Nhập hàng</a><a href="#">Quản lý thông tin</a><a class="active" href="StatisticsMenu5.jsp">Xem thống kê</a></nav></header>
+<main class="wrap"><section class="card"><h1 class="title">Chọn nội dung thống kê</h1><p class="muted">Chọn một loại báo cáo để tiếp tục.</p><div class="actions"><a class="btn report-link" href="StatisticsDateRange5.jsp">Thống kê nhà cung cấp theo hàng nhập</a><a class="btn secondary" href="ManagerHome5.jsp">Quay lại</a></div></section></main></body></html>

@@ -1,0 +1,6 @@
+dao\ImportInvoice5DAO.class
+dao\ImportInvoice5.class
+dao\ImportInvoiceDetail5.class
+dao\DAO.class
+dao\SupplierStatistics5.class
+dao\SupplierStatistics5DAO.class

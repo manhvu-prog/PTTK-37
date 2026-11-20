@@ -1,0 +1,4 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>RestMan | Quản lý</title><link rel="stylesheet" href="<%=request.getContextPath()%>/styles.css"></head>
+<body><header class="bar"><div class="brand">RestMan</div><nav class="nav"><a class="active" href="ManagerHome5.jsp">Quản lý</a><a href="#">Nhập hàng</a><a href="#">Quản lý thông tin</a><a href="StatisticsMenu5.jsp">Xem thống kê</a></nav></header>
+<main class="wrap"><section class="card"><h1 class="title">Khu vực quản lý</h1><p class="muted">Theo dõi hoạt động nhập hàng và xem thống kê nhà cung cấp.</p><div class="actions"><a class="btn" href="StatisticsMenu5.jsp">Xem thống kê</a></div></section><div class="footer">Bản giao diện PTTK2 · Vai trò nhân viên quản lý</div></main></body></html>
